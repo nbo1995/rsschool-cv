@@ -1,1 +1,97 @@
-
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+      <title>My CV</title>
+  </head>
+  <body>
+    <style>
+        h1, h2, h3 {
+        font-family: Verdana;
+        max-width: 1024px;
+        color: black;
+      }
+      p{
+        font-family: Calibri;
+        max-width: 1024px;
+      }
+      ul{
+        font-family: Calibri;
+        max-width: 1024px;
+      }
+      .center-img {
+       display: block;
+       margin: 0 auto;
+       border: 1px solid #05A8AA;
+       border-radius: 5px;
+       box-shadow: 10px 15px 20px rgba(0,0,0,0.2);
+      }
+      body{
+        border: 1px solid #05A8AA;
+        border-radius: 5px;
+        background: linear-gradient(to left, #0000FF 0%, white, #0000FF);
+     }
+      a{
+        color: red;
+     }
+     </style>
+  <div>
+  <img src="https://sun9-5.userapi.com/c858228/v858228667/c188/Ijklgu1d7cE.jpg?ava=1" alt="Sergey" width="120" height="150" class="center-img">
+</div>
+      <h1>rsschool-cv</h1>
+          <h2>1.Sergey Stepanenko</h2>
+   
+    <div> 
+    <h3>2. Contact Info:</h3>
+        <ul>
+        <li>phone number, viber and WhatsApp +79172129577</li>
+        <li>email: nbo1995@gmail.com</li>
+	<li>page on VK: https://vk.com/nbo95</li>
+        </ul>
+      </div>
+    
+    <div>
+      <h3>3. Summary:</h3>
+        <p>My goal is to be a good Junior Developer in , is to always do what I like and bring joy to others (especially my family). I like work computers and build websites. Web development is a kind of designer for me. Now I work in Cinnabon and Яндекс Еда (Yandex food) but most of all I want to write websites.It was really interesting for me to create some simple sites with the help of HTML and CSS basic courses in the Ubemy and Html academy</p>
+      </div>
+    
+    <div>
+      <h3>4. Skills:</h3>
+	<ul>
+         <li><p>Master the Basics of HTML5 & CSS3 courses: <a href="https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email">my certificate</a></p></li>
+	 <li><p>Foundations of Front-End Web Development courses: <a href="https://www.udemy.com/certificate/UC-4MNU5F5B/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email">my certificate</p></li>
+	 <li><p>Web Development By Doing: HTML / CSS From Scratch courses: <a href="https://www.udemy.com/certificate/UC-4DMXER6L/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email">my certificate</p></li>
+	 <li><p>The basics of HTML5 & CSS3 coueses: <a href="https://htmlacademy.ru/profile/id1079579">my profyle</a></p></li>
+      	</ul>
+    </div>
+   
+    <div>
+      <h3>5.Code examples (LATEST):</h3>
+        <ul>
+          <li>HTML-code</li>
+          <li>CSS code</li>
+          </ul>
+    </div>
+    
+    <div>
+      <h3>6. Experience:</h3>
+        <p>I have no experience working as a developer, but I have a lot of experience as a call-center operator selling home Internet and TV, so I just have to work at high speed, in multi-tasking mode and stress resistance. I am also very patient and calm. Therefore, I think it will be very useful for the developer.</p>
+      </div>
+    
+    <div>
+    <h3>7. Education:</h3>
+      <ul>
+        <li>
+          <strong>The sovereign communal primary educational complex of the Dzerzhinsky district of Kharkov</strong><br>
+<em>2011-2013 years</em> Specialty: Information and Communicable Technologies <a href="https://drive.google.com/open?id=11MW-L_uRWUfsGRuTm_hg9x2_oyQ30cbL">certificate</a><br>
+Bachelor's degree<br>
+	</li>
+      </ul>
+      </div>
+    
+    <div>
+   <h3>8. English:</h3>
+    <p>My knowledge of English at 2 points out of 5 points.</p>
+      </div>
+  </body>
+</html>
