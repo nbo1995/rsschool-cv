@@ -1,2 +1,1 @@
-# My GitHub profile    
-https://github.com/nbo1995/rsschool-cv
+[View My CV](https://github.com/nbo1995/rsschool-cv)
