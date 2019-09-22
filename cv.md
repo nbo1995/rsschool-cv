@@ -3,7 +3,7 @@
 ### 2. Contact Info:
   - phone number, viber and WhatsApp +79172129577
   - email: nbo1995@gmail.com
-  - page on VK: vk.com/nbo95
+  - page on VK: https://vk.com/nbo95
 ### 3. Summary:
 My goal is to be a good Junior Developer in <Epam>, is to always do what I like and bring joy to others (especially my family). I like work 
 computers and build websites. Web development is a kind of designer for me. Now I work in Cinnabon and Яндекс Еда (Yandex food) 
